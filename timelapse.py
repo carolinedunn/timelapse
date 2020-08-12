@@ -16,6 +16,8 @@ print("RPi started taking photos for your timelapse at: " + datetimeformat)
 camera = PiCamera()
 camera.resolution = (1024, 768)
 
+system('rm /home/pi/Pictures/*.jpg') #delete all photos in the Pictures folder before timelapse start
+
 for i in range(numphotos):
     camera.capture('/home/pi/Pictures/image{0:06d}.jpg'.format(i))
     sleep(secondsinterval)
