@@ -1,8 +1,13 @@
 # How to Shoot Time-Lapse Videos with Raspberry Pi and a webcam
 
-
 Automated timelapse system for a Raspberry Pi 5 using a USB camera.  
 Captures images every 10 minutes, generates a daily video, and emails it at 10 PM.
+
+<a href="https://youtu.be/bl7EcG-eDjQ">
+  <img src="https://raw.githubusercontent.com/carolinedunn/timelapse/master/photos/openclaw RPi-timelapse-play.jpg" width="720" alt="Raspberry Pi Timelapse Tutorial">
+</a>
+
+[Raspberry Pi 5 + AI + OpenClaw Timelapse Tutorial](https://youtu.be/bl7EcG-eDjQ)
 
 ---
 
