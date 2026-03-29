@@ -48,6 +48,11 @@ sudo apt update
 sudo apt install ffmpeg fswebcam v4l-utils python3
 ```
 
+Download the [timelapse.py file](https://github.com/carolinedunn/timelapse/blob/master/timelapse.py)
+```bash
+git clone https://github.com/carolinedunn/timelapse
+```
+
 ---
 
 ## 🔧 Configuration
