@@ -186,24 +186,11 @@ ffmpeg -version
 .env
 ```
 
----
-
-## 🌱 Future Improvements
-
-- Timestamp overlay
-- Motion detection
-- Cloud uploads (Google Drive / S3)
-- Web dashboard
-
----
+--
 
 ## 📜 License
 
 MIT License
-
-
-
-
 
 # How to Shoot Time-Lapse Videos with Raspberry Pi HQ Camera
 
@@ -217,4 +204,13 @@ Video tutorial published on Tom's Hardware YouTube channel - https://youtu.be/dk
 ![Raspberry Pi HQ Camera Front](https://github.com/carolinedunn/timelapse/blob/master/photos/front.JPG)
 Raspberry Pi 4 with HQ camera
 
-Full tutorial published on Tom's Hardware - https://www.tomshardware.com/how-to/raspberry-pi-time-lapse-video
+---
+
+## 📚 A Woman’s Guide to Winning in Tech
+
+If you enjoyed this repo, check out my book, **A Woman’s Guide to Winning in Tech.** This book blends sharp humor with practical career strategies to help women navigate tech on their own terms—without changing who they are. Available on Amazon, Bookshop.org, Barnes & Noble, and IngramSpark.
+
+- 🌐 [Book Website](https://winningintech.com/) 
+- 📘 [Amazon](https://amzn.to/3YxHVO7)
+- [Instagram](https://www.instagram.com/winning.tech)
+- [Facebook](https://www.facebook.com/winningintech)
